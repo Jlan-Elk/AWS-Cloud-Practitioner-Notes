@@ -44,7 +44,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. 3 hours for the Linux instance and 4 hours, 23 minutes and 7 seconds for the CentOS instance.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
     </details>
 
 5. What is the AWS Support feature that allows customers to manage support cases programmatically?
