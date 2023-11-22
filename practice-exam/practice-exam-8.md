@@ -54,7 +54,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Proactive Technical Account Management.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
+      Correct answer: A, B
     </details>
 
 6. You have just finished writing your application code. Which service can be used to automate the deployment and scaling of your application?
